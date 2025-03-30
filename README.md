@@ -14,4 +14,11 @@ Here, you'll find some of my projects, which I’m working on to apply what I’
 - Node.js, Express
 - Databases (SQL and NoSQL)
 
-Thanks for visiting my profile, and I hope we can learn and grow together!
+🔐 Hack The Box Enthusiast
+I'm also expanding my cybersecurity skills on **Hack The Box**.
+
+- 🖥️ I’ve successfully rooted several machines on HTB, and I’m continually learning new techniques to enhance my problem-solving and security skills.
+- 💡 Through HTB I've gained some knowledge in web application security and network penetration testing.
+- 🎯 **My HTB Profile**: [Hack The Box - 0Duke](https://app.hackthebox.eu/profile/1890009) 
+
+### Thanks for visiting my profile, and I hope we can learn and grow together!
